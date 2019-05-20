@@ -1,7 +1,7 @@
 
 *.iml
-test
-/dma-service/src/test/java/AssetTest.java
+#test
+
 
 
 # Created by https://www.gitignore.io/api/svn,maven,android,intellij+all,androidstudio
@@ -292,4 +292,4 @@ buildNumber.properties
 .svn/
 
 # End of https://www.gitignore.io/api/svn,maven,android,intellij+all,androidstudio
-/dma-base/src/test
+
